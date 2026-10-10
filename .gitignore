@@ -1,0 +1,18 @@
+# Gradle / Android Studio
+.gradle/
+.kotlin/
+build/
+local.properties
+.idea/
+*.iml
+captures/
+
+# Release files (upload these to GitHub Releases instead)
+dist/
+*.apk
+*.aab
+*.keystore
+*.jks
+
+# macOS
+.DS_Store

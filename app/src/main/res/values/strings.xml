@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cloud Photo Frame</string>
+    <string name="dream_label">Cloud Photo Frame</string>
+
+    <string name="section_account">Degoo account</string>
+    <string name="section_folder">Photos to show</string>
+    <string name="section_slideshow">Slideshow</string>
+    <string name="section_screensaver">Use as screensaver</string>
+
+    <string name="hint_email">Degoo email</string>
+    <string name="hint_password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_out">Sign out</string>
+    <string name="signing_in">Signing in…</string>
+    <string name="sign_in_failed">Sign-in failed</string>
+    <string name="enter_email_password">Enter your Degoo email and password.</string>
+    <string name="signed_in_as">Signed in as %1$s</string>
+    <string name="your_account">your Degoo account</string>
+    <string name="phone_setup">Easier: on your phone (same Wi-Fi) open %1$s and enter code %2$s</string>
+    <string name="phone_setup_unavailable">Connect the TV to Wi-Fi or Ethernet to sign in from your phone.</string>
+
+    <string name="no_folder">No folder chosen yet</string>
+    <string name="choose_folder">Choose folder</string>
+    <string name="degoo_root">Degoo</string>
+    <string name="use_this_folder">✓  Show all photos in “%1$s”</string>
+    <string name="folder_row">📁  %1$s</string>
+    <string name="no_subfolders">No sub-folders here.</string>
+    <string name="loading">Loading…</string>
+    <string name="counting_photos">Counting photos…</string>
+    <string name="scanning_photos">Scanning… %1$d photos found</string>
+    <plurals name="photo_count">
+        <item quantity="one">%1$d photo</item>
+        <item quantity="other">%1$d photos</item>
+    </plurals>
+
+    <string name="opt_slide_time">Change photo every: %1$s</string>
+    <string name="opt_shuffle">Shuffle: %1$s</string>
+    <string name="opt_fill">Fill screen (crop edges): %1$s</string>
+    <string name="opt_clock">Show clock: %1$s</string>
+    <string name="opt_zoom">Slow zoom effect: %1$s</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="preview">▶  Start slideshow</string>
+    <string name="refresh">Refresh photo list</string>
+
+    <string name="screensaver_help">Settings → Device Preferences → Screen saver → choose “Cloud Photo Frame”. On Google TV this choice is hidden; see the README for the one-time command to turn it on.</string>
+    <string name="open_screensaver_settings">Open screensaver settings</string>
+    <string name="no_screensaver_settings">This TV hides screensaver settings. See the README for the one-time setup command.</string>
+
+    <string name="msg_sign_in">Open the Cloud Photo Frame app to sign in to Degoo.</string>
+    <string name="msg_choose_folder">Open the Cloud Photo Frame app to choose a photo folder.</string>
+    <string name="msg_loading">Loading your photos…</string>
+    <string name="msg_no_photos">No photos found in “%1$s”.</string>
+    <string name="msg_offline">Can\'t load photos right now. Will try again shortly.</string>
+    <string name="msg_session_expired">Degoo session expired. Open Cloud Photo Frame to sign in again.</string>
+    <string name="session_expired_setup">Your Degoo session expired. The screensaver keeps showing photos already saved on this TV. Sign in again to get new ones.</string>
+    <string name="turn_on_auto_sign_in">Sign in once more to turn on automatic sign-in. The TV will then reconnect to Degoo by itself if the session ends.</string>
+    <string name="msg_error">Problem: %1$s</string>
+</resources>
